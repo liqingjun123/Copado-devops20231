@@ -7,4 +7,11 @@
         <shortDescription>copad test 1</shortDescription>
         <value>1</value>
     </labels>
+    <labels>
+        <fullName>copado_test_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>copado test 2</shortDescription>
+        <value>2</value>
+    </labels>
 </CustomLabels>
