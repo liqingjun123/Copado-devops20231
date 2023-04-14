@@ -14,4 +14,11 @@
         <shortDescription>copado test 2</shortDescription>
         <value>2</value>
     </labels>
+    <labels>
+        <fullName>copado_test_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>copado test 3</shortDescription>
+        <value>0</value>
+    </labels>
 </CustomLabels>
